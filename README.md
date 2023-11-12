@@ -144,7 +144,9 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![Alt text](image.png)
+
+![image](https://github.com/Jerushli/cover/assets/120041243/2bf4633b-4bef-4e46-8bec-fbb238ebff46)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
