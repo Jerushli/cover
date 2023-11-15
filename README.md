@@ -133,7 +133,7 @@ Publish the website in the given URL.
                     <p><b>SEC</b></p>
                 </div>
                 <div class="pub">
-                    MITHUN RAJ M
+                    JERUSHLIN JOSE JB
                 </div>
                 <div class="ed">
                     <b>Seventh Edition</b>
@@ -145,7 +145,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![image](https://github.com/Jerushli/cover/assets/120041243/2bf4633b-4bef-4e46-8bec-fbb238ebff46)
+![jose cover ](https://github.com/Jerushli/cover/assets/120041243/8a53719d-d298-45a2-a1bb-e96da40ef867)
+
 
 
 ## RESULT:
